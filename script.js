@@ -1,0 +1,1 @@
+alert("imran chutiya hai!")
